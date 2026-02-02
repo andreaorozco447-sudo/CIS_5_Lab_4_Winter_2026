@@ -1,6 +1,7 @@
 # CIS_5_Lab_4_Winter_2026
 
 Functions & Passing Methods
+Recording:https://github.com/user-attachments/assets/5904f218-074a-48d7-92e9-8de2ee8c11df
 
 Goal: Manage 5 student scores using different parameter passing
 Array (hard-coded):  {65, 82, 90, 45, 78} -> use these numbers for the lab
